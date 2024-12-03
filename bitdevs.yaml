@@ -1,0 +1,38 @@
+repositories:
+  - url: https://github.com/BitDevsNYC/BitDevsNYC.github.io
+  - url: https://www.github.com/bitdevsamsterdam/bitdevsamsterdam.github.io
+  - url: https://github.com/bitdevs-athens/website
+  - url: https://github.com/atlantabitdevs/atlbit.dev
+    posts_directory: content/events
+  - url: https://github.com/austinbitdevs/austinbitdevs.com
+  - url: https://github.com/fjahr/bitdevsberlin
+  # #TODO support different format for posts title
+  # - url: https://github.com/0xBEEFCAF3/bostonbitdevs
+  #   posts_directory: content
+  - url: https://github.com/BitDevsBSB/BitDevsBSB
+  - url: https://github.com/ChicagoBitDevs/ChicagoBitDevs.github.io
+  - url: https://github.com/guadalajara-bitdevs/BitDevsGDL.github.io
+  - url: https://github.com/londonbitdevs/londonbitdevs-website
+  - url: https://github.com/bitdevsla/bitdevsla.org
+    posts_directory: content
+  - url: https://github.com/Bitcoin-Grove/miamibitdevs.org
+  - url: https://github.com/BitDevsMPLS/BitDevsMPLS.github.io
+  - url: https://github.com/nashbitdevs/nashbitdevs.org
+    posts_directory: content
+  - url: https://github.com/norfolkbitdevs/BitDevsNorfolk.github.io
+  - url: https://github.com/PerthBitDevs/perth.bitdevs.com.au
+  # #TODO support different format for posts
+  # - url: https://github.com/Portland-Bit-Devs/Portland.BitDevs
+  #   posts_directory: meetings 
+  - url: https://github.com/poabitdevs/poabitdevs.org
+  - url: https://github.com/TriangleBitDevs/TriangleBitDevs.github.io
+  # #TODO support different format for posts title
+  # - url: https://github.com/sfbitcoindevs/sfbitcoindevs
+  #   posts_directory: content
+  - url: https://github.com/nicolasburtey/bitdev-el-salvador.github.io
+  - url: https://github.com/saopaulobitdevs/saopaulobitdevs.org
+  - url: https://github.com/TaiwanBitdevs/TaiwanBitdevs.github.io
+  - url: https://github.com/bennyhodl/bennyblockchain.github.io
+  - url: https://github.com/VancouverBitdevs/VancouverBitdevs.github.io
+  - url: https://github.com/VictoriaBitDevs/VictoriaBitDevs.github.io
+  - url: https://github.com/dcbitdevs/dcbitdevs.github.io
